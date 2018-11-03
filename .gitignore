@@ -1,0 +1,7 @@
+# Dataset
+data/*.xlsx
+data/*.csv
+
+*/__pycache__/**
+.idea/
+.venv/
